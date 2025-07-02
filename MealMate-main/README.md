@@ -1,4 +1,3 @@
-# Learn to Build Project Step by Step Here: https://www.youtube.com/@jobreadycoderz
 # 🍴 MealMate
 A full-stack food Ordering platform that allows customers to browse restaurants, place orders, and make payments while allowing vendors to manage their restaurant details, orders, and menus. The platform includes secure user authentication and role-based access control to ensure only authorized users can access specific resources.
 
@@ -66,7 +65,7 @@ A full-stack food Ordering platform that allows customers to browse restaurants,
 ### Backend Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MealMate
+   git clone https://github.com/Jaswanth6303/MealMate
    cd MealMate
 
 ### Usage:
@@ -82,6 +81,5 @@ Make your changes and commit them.
 Push to your fork and submit a pull request.
 <br></br>
 
-[![Watch the demo] ([https://shorturl.at/Su85p](https://drive.google.com/file/d/18vQMukpJgX28bePiPZlxb1nhKdMNMk1m/view?usp=sharing))  
 
 
